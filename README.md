@@ -13,19 +13,61 @@
 <br/>
 
 ## 🔹 About
-&emsp;
+&emsp; _[TODO]_
 📍 **Position**&nbsp;&nbsp;&nbsp;&nbsp;Rome / Salerno, Italy &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇹 `UTC +1`
 
 <br/>
 
 ## 🔹 Stack
-### &emsp;&nbsp; 🔹 Languages
-&emsp;&emsp;&emsp; [![My Skills](https://skillicons.dev/icons?i=r,py,bash,cs,cpp,c,java,js,sql&perline=3)](https://skillicons.dev)
+&emsp; 🔹 **Operating Systems**  
+&emsp;&emsp;&emsp; <img src="./icons/stack/win.svg"   alt="Windows" title="Windows" align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/linux.svg" alt="Linux"   title="Linux"   align="absmiddle" width="48" height="48" />
+
+<br/>
+
+&emsp; 🔹 **Development Tools**: Visual Studio, VS Code, RStudio, Git, GitHub  
+&emsp;&emsp;&emsp; <img src="./icons/stack/vs.svg"      alt="Visual Studio" title="Visual Studio" align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/vscode.svg"  alt="VS Code"       title="VS Code"       align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/rstudio.svg" alt="RStudio"       title="RStudio"       align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/jupyter.svg" alt="Jupyter"       title="Jupyter"       align="absmiddle" width="48" height="48" /> &emsp;
+                   <img src="./icons/stack/git.svg"     alt="Git"           title="Git"           align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/github.svg"  alt="GitHub"        title="GitHub"        align="absmiddle" width="48" height="48" />
+
+<br/>
+
+&emsp; 🔹 **Programming Languages**: Python, R, C#, C, C++, Java, JavaScript, VB.NET, SQL, Bash, AWK  
+&emsp;&emsp;&emsp; <img src="./icons/stack/prog_langs/r.svg"    alt="R"            title="R"            align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/py.svg"   alt="Python"       title="Python"       align="absmiddle" width="48" height="48" />
+                   <img src="./icons/empty.svg"                                                         align="absmiddle" width="48" height="48" /> &emsp;
+                   <img src="./icons/stack/prog_langs/c.svg"    alt="C"            title="C"            align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/cpp.svg"  alt="C++"          title="C++"          align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/cs.svg"   alt="C#"           title="C#"           align="absmiddle" width="48" height="48" />  
+&emsp;&emsp;&emsp; <img src="./icons/stack/prog_langs/java.svg" alt="Java"         title="Java"         align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/js.svg"   alt="JavaScript"   title="JavaScript"   align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/vb.svg"   alt="Visual Basic" title="Visual Basic" align="absmiddle" width="48" height="48" /> &emsp;
+                   <img src="./icons/stack/prog_langs/bash.svg" alt="Bash"         title="Bash"         align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/awk.svg"  alt="AWK"          title="AWK"          align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/prog_langs/sql.svg"  alt="SQL"          title="SQL"          align="absmiddle" width="48" height="48" />
+
+
+<br/>
+
+&emsp; 🔹 **Frameworks & Technologies**  
+&emsp;&emsp;&emsp; <img src="./icons/stack/dotnet.svg" alt=".NET"  title=".NET"  align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/p5js.svg"   alt="p5.js" title="p5.js" align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/regex.svg"  alt="Regex" title="Regex" align="absmiddle" width="48" height="48" />
+
+<br/>
+
+&emsp; 🔹 **Software**: PyMOL, Blender, Microsoft Office  
+&emsp;&emsp;&emsp; <img src="./icons/stack/dotnet.svg" alt=".NET"  title=".NET"  align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/blender.svg"   alt="Blender" title="Blender" align="absmiddle" width="48" height="48" />
+                   <img src="./icons/stack/regex.svg"  alt="Regex" title="Regex" align="absmiddle" width="48" height="48" />
 
 <br/>
 
 ## 🔹 Education
-&emsp; <img src="./icons/education/sapienza.svg" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
+&emsp; <img src="./icons/education/sapienza.svg" alt="Sapienza Università di Roma" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
   
 &emsp;&emsp;&emsp;  **Msc** in Genetics and Molecular Biology  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Bioinformatics_  
@@ -34,7 +76,7 @@
 
 <br/>
 
-&emsp; <img src="./icons/education/unisa.svg" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
+&emsp; <img src="./icons/education/unisa.svg" alt="UNISA Università degli Studi di Salerno" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
   
 &emsp;&emsp;&emsp; **Bsc** in Biological Sciences  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Molecular Docking_  
@@ -44,6 +86,6 @@
 <br/>
 
 ## 🔹 Languages
-&emsp; <img src="./icons/languages/italy.svg" align="absmiddle" width="32" height="32" />     &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`  
-&emsp; <img src="./icons/languages/english.svg" align="absmiddle" width="32" height="32" />   &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
-&emsp; <img src="./icons/languages/esperanto.svg" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`  
+&emsp; <img src="./icons/languages/italy.svg" alt="italian"       align="absmiddle" width="32" height="32" /> &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`  
+&emsp; <img src="./icons/languages/english.svg" alt="english"     align="absmiddle" width="32" height="32" /> &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
+&emsp; <img src="./icons/languages/esperanto.svg" alt="esperanto" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`  
