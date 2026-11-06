@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1666.6666666666667" height="1000">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m60 0h880c33.14 0 60 26.86 60 60v480c0 33.14-26.86 60-60 60h-880c-33.14 0-60-26.86-60-60v-480c0-33.14 26.86-60 60-60z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m500 300h500v300zm0 0v300h-500zm0 0h-500v-300zm0 0v-300h500z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #012169 } 
+		.s1 { fill: #000000;stroke: #ffffff;stroke-width: 120 } 
+		.s2 { fill: #000000;stroke: #c8102e;stroke-width: 80 } 
+		.s3 { fill: #c8102e;stroke: #ffffff;stroke-width: 40 } 
+	</style>
+	<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+		<g id="Layer 1">
+			<path class="s0" d="m0 0v600h1000v-600z"/>
+			<path class="s1" d="m1000 0l-1000 600m0-600l1000 600"/>
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<path class="s2" d="m1000 0l-1000 600m0-600l1000 600"/>
+			</g>
+			<path class="s3" d="m-20 220h440v-240h160v240h440v160h-440v240h-160v-240h-440z"/>
+		</g>
+	</g>
+</svg>
