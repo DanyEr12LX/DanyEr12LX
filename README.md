@@ -7,39 +7,43 @@
 <br/>
 
 ## 🔹 Contacts
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniele-piccolo-biomol/)
-&nbsp;&nbsp;
-[![GMail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com)
+&emsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniele-piccolo-biomol/)
+&ensp; [![GMail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com)
 
 <br/>
 
 ## 🔹 About
-&nbsp;&nbsp;&nbsp;&nbsp;
+&emsp;
 📍 **Position**&nbsp;&nbsp;&nbsp;&nbsp;Rome / Salerno, Italy &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇹 `UTC +1`
 
 <br/>
 
-## 🔹 Education
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="./icons/sapienza.svg" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Msc** in Genetics and Molecular Biology  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 **Final grade** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 110 / 110 _cum Laude_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 **Grade point average** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30+ / 30  
+## 🔹 Stack
+### &emsp;&nbsp; 🔹 Languages
+&emsp;&emsp;&emsp; [![My Skills](https://skillicons.dev/icons?i=r,py,bash,cs,cpp,c,java,js,sql&perline=3)](https://skillicons.dev)
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<img src="./icons/unisa.svg" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
- 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bsc** in Biological Sciences  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 **Final grade** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 110 / 110 _cum Laude_  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔹 **Grade point average** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28.5 / 30
+## 🔹 Education
+&emsp; <img src="./icons/sapienza.svg" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
+  
+&emsp;&emsp;&emsp;  **Msc** in Genetics and Molecular Biology  
+&emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Bioinformatics_  
+&emsp;&emsp;&emsp; 🔹 **Final grade**         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 110 / 110 _cum Laude_  
+&emsp;&emsp;&emsp; 🔹 **Grade point average** &emsp;&emsp;                         30+ / 30  
+
+<br/>
+
+&emsp; <img src="./icons/unisa.svg" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
+  
+&emsp;&emsp;&emsp; **Bsc** in Biological Sciences  
+&emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Molecular Docking_  
+&emsp;&emsp;&emsp; 🔹 **Final grade**         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 110 / 110 _cum Laude_  
+&emsp;&emsp;&emsp; 🔹 **Grade point average** &emsp;&emsp;                         28.5 / 30
 
 <br/>
 
 ## 🔹 Languages
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="./icons/italy.svg" align="absmiddle" width="32" height="32" /> &nbsp; **Italian** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp; `Native`  
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="./icons/english.svg" align="absmiddle" width="32" height="32" /> &nbsp; **English** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; `B2`  
-&nbsp;&nbsp;&nbsp;&nbsp; <img src="./icons/esperanto.svg" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp; `B2`  
+&emsp; <img src="./icons/italy.svg" align="absmiddle" width="32" height="32" />     &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`  
+&emsp; <img src="./icons/english.svg" align="absmiddle" width="32" height="32" />   &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
+&emsp; <img src="./icons/esperanto.svg" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`  
