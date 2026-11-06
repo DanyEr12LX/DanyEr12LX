@@ -25,7 +25,7 @@
 <br/>
 
 ## 🔹 Education
-&emsp; <img src="./icons/sapienza.svg" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
+&emsp; <img src="./icons/education/sapienza.svg" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
   
 &emsp;&emsp;&emsp;  **Msc** in Genetics and Molecular Biology  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Bioinformatics_  
@@ -34,7 +34,7 @@
 
 <br/>
 
-&emsp; <img src="./icons/unisa.svg" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
+&emsp; <img src="./icons/education/unisa.svg" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
   
 &emsp;&emsp;&emsp; **Bsc** in Biological Sciences  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Molecular Docking_  
@@ -44,6 +44,6 @@
 <br/>
 
 ## 🔹 Languages
-&emsp; <img src="./icons/italy.svg" align="absmiddle" width="32" height="32" />     &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`  
-&emsp; <img src="./icons/english.svg" align="absmiddle" width="32" height="32" />   &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
-&emsp; <img src="./icons/esperanto.svg" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`  
+&emsp; <img src="./icons/languages/italy.svg" align="absmiddle" width="32" height="32" />     &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`  
+&emsp; <img src="./icons/languages/english.svg" align="absmiddle" width="32" height="32" />   &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
+&emsp; <img src="./icons/languages/esperanto.svg" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`  
