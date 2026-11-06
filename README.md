@@ -13,7 +13,7 @@
 <br/>
 
 ## 🔹 About
-&emsp; _[TODO]_: fare bottom, about, 2 programmi, convertire contacts, troppo spazio tra righe delle icone
+&emsp; _[TODO]_: fare bottom, about, 2 programmi, convertire contacts
 
 📍 **Position**&nbsp;&nbsp;&nbsp;&nbsp;Rome / Salerno, Italy &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇹 `UTC +1`
 
@@ -60,9 +60,9 @@
     <img src="./icons/stack/github.svg"  alt="GitHub"        title="GitHub"        width="55" height="55" />
   
   &emsp;&emsp;&emsp;
-    <img src="./icons/stack/dotnet.svg"  alt="PyMOL"         title="PyMOL"         width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/pymol.png"   alt="PyMOL"         title="PyMOL"         width="55" height="55" /> &nbsp;
     <img src="./icons/stack/blender.svg" alt="Blender"       title="Blender"       width="55" height="55" /> &nbsp;
-    <img src="./icons/stack/regex.svg"   alt="MS Office"     title="MS Office"     width="55" height="55" />
+    <img src="./icons/stack/office.svg"  alt="MS Office"     title="MS Office"     width="55" height="55" />
 </div>
 
 ### &emsp; 🔹 **Frameworks & Technologies**
@@ -72,6 +72,7 @@
     <img src="./icons/stack/p5js.svg"   alt="p5.js" title="p5.js" width="55" height="55" /> &nbsp;
     <img src="./icons/stack/regex.svg"  alt="Regex" title="Regex" width="55" height="55" />
 </div>
+
 <br/>
 
 ## 🔹 Education
@@ -94,12 +95,7 @@
 <br/>
 
 ## 🔹 Languages
-<div> 
-  
   &emsp; <img src="./icons/languages/italy.svg"     alt="italian"   align="absmiddle" width="32" height="32" /> &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`
   &emsp;&emsp;&emsp;&emsp;&emsp;
   &emsp; <img src="./icons/languages/english.svg"   alt="english"   align="absmiddle" width="32" height="32" /> &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
-  
   &emsp; <img src="./icons/languages/esperanto.svg" alt="esperanto" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`
-</div>
-
