@@ -19,7 +19,7 @@
 <br/>
 
 ## 🔹 About
-&emsp; _[TODO]_: fare bottom, about,
+_TODO_
 
 📍 **Position**&nbsp;&nbsp;&nbsp;&nbsp;Rome / Salerno, Italy &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇹 `UTC +1`
 
@@ -114,3 +114,8 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;
   &emsp; <img src="./icons/languages/english.svg"   alt="english"   align="absmiddle" width="32" height="32" /> &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
   &emsp; <img src="./icons/languages/esperanto.svg" alt="esperanto" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0%3A00d1ff%2C100%3A0092ff&section=footer&reversal=false&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Daniele Piccolo banner - Bottom"/>
+</div>
