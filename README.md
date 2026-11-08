@@ -4,24 +4,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&multiline=true&width=450&height=60&lines=Uncovering+the+hidden+algorithms;that+lie+beneath+natural+phenomena" alt="Typing SVG" />
 </div>
 
-<br/>
-
-## 🔹 Contacts
-<div>
-  &emsp;
-  <a href="https://www.linkedin.com/in/daniele-piccolo-biomol">
-    <img src="./icons/contacts/linkedin.svg" alt="Linkedin" title="Linkedin" width="55" height="55" /></a> 
-  &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com">
-    <img src="./icons/contacts/gmail.svg"   alt="GMail"     title="GMail"    width="55" height="55" /></a>
-</div>
-
-<br/>
-
 ## 🔹 About
-_TODO_
+📍 Rome / Salerno, **Italy** &nbsp; <img src="./icons/languages/italy.svg" alt="italy" align="absmiddle" width="16" height="16" /> &nbsp; `UTC +1`
 
-📍 **Position**&nbsp;&nbsp;&nbsp;&nbsp;Rome / Salerno, Italy &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇹 `UTC +1`
+My background combines **Molecular Biology** and **Bioinformatics**, allowing me to approach biological questions from mechanistic and computational perspectives.  I am interested in uncovering the principles underlying complex biological systems and extracting meaningful insights from biological data.  
+
+&emsp;&emsp; 🔹 NGS/RNA-Seq Analysis &emsp;                               🔹 Statistical Modelling &emsp;                   🔹 Data Analysis  
+&emsp;&emsp; 🔹 Molecular Biology    &emsp;&emsp;&emsp;&nbsp;             🔹 Structural Biology    &emsp;&emsp;             🔹 Molecular Docking  
+&emsp;&emsp; 🔹 Simulations          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🔹 Supervised ML         &emsp;&emsp;&emsp;&ensp; 🔹 High-Performance Coding   
+
+I am currently investigating the _potential role of intronic lariat stabilization in cellular regulation and homeostasis_, developing a bioinformatics pipeline to identify, characterize and distinguish intron retention events from lariat stabilization events in short-read RNA-seq data.
 
 <br/>
 
@@ -90,7 +82,7 @@ _TODO_
 
 ## 🔹 Education
 &emsp; <img src="./icons/education/sapienza.svg" alt="Sapienza Università di Roma" align="absmiddle" width="64" height="64" /> &nbsp; 
-<img src="./icons/languages/italy.svg"     alt="italian"   align="absmiddle" width="16" height="16" />  &nbsp; **Sapienza Università di Roma**  
+<img src="./icons/languages/italy.svg" alt="italy" align="absmiddle" width="16" height="16" />  &nbsp; **Sapienza Università di Roma**  
   
 &emsp;&emsp;&emsp;  **Msc** in Genetics and Molecular Biology  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Bioinformatics_  
@@ -100,7 +92,7 @@ _TODO_
 <br/>
 
 &emsp; <img src="./icons/education/unisa.svg" alt="UNISA Università degli Studi di Salerno" align="absmiddle" width="64" height="64" /> &nbsp;
-<img src="./icons/languages/italy.svg"     alt="italian"   align="absmiddle" width="16" height="16" />  &nbsp; **UNISA Università degli Studi di Salerno**  
+<img src="./icons/languages/italy.svg" alt="italy" align="absmiddle" width="16" height="16" />  &nbsp; **UNISA Università degli Studi di Salerno**  
   
 &emsp;&emsp;&emsp; **Bsc** in Biological Sciences  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Molecular Docking_  
@@ -115,6 +107,17 @@ _TODO_
   &emsp; <img src="./icons/languages/english.svg"   alt="english"   align="absmiddle" width="32" height="32" /> &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
   &emsp; <img src="./icons/languages/esperanto.svg" alt="esperanto" align="absmiddle" width="32" height="32" /> &nbsp; **Esperanto** &emsp;&emsp;&emsp;&nbsp;       `B2`
 
+<br/>
+
+## 🔹 Contacts
+<div>
+  &emsp;
+  <a href="https://www.linkedin.com/in/daniele-piccolo-biomol">
+    <img src="./icons/contacts/linkedin.svg" alt="Linkedin" title="Linkedin" width="55" height="55" /></a> 
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com">
+    <img src="./icons/contacts/gmail.svg"   alt="GMail"     title="GMail"    width="55" height="55" /></a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=0%3A00d1ff%2C100%3A0092ff&section=footer&reversal=false&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Daniele Piccolo banner - Bottom"/>
