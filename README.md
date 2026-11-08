@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&multiline=true&width=450&height=60&lines=Uncovering+the+hidden+algorithms;that+lie+beneath+natural+phenomena" alt="Typing SVG" />
 </div>
 
-## 🔹 About
+## 🧬 About
 📍 Rome / Salerno, **Italy** &nbsp; <img src="./icons/languages/italy.svg" alt="italy" align="absmiddle" width="16" height="16" /> &nbsp; `UTC +1`
 
 My background combines **Molecular Biology** and **Bioinformatics**, allowing me to approach biological questions from mechanistic and computational perspectives.  I am interested in uncovering the principles underlying complex biological systems and extracting meaningful insights from biological data.  
@@ -17,7 +17,16 @@ I am currently investigating the _potential role of intronic lariat stabilizatio
 
 <br/>
 
-## 🔹 Stack
+## 💻 Projects
+### &emsp; 🔹 **Main GitHub Repositories**
+  &emsp; &emsp;&emsp; 🔹 IRA: Intron Regulation Analyzer **[** _still in progress_ ⚙️ **]**
+### &emsp; 🔹 **External projects**
+  &emsp; &emsp;&emsp; 🔹 Collection of sketches created with [p5.js](https://editor.p5js.org/DanyEr12LX/sketches)  
+  &emsp; &emsp;&emsp; 🔹 Project for a modification of a video game named [DLX-Weapons Fix](https://community.thefunpimps.com/threads/dlx-weapons-fix-v1-0-v1-1-aligned-sights-aiming-directly-from-the-scope-and-more.28433/)
+
+<br/>
+
+## 🛠️ Stack
 ### &emsp; 🔹 **Operating Systems**
 <div>
   &emsp;&emsp;&emsp;
@@ -80,7 +89,7 @@ I am currently investigating the _potential role of intronic lariat stabilizatio
 
 <br/>
 
-## 🔹 Education
+## 🎓 Education
 &emsp; <img src="./icons/education/sapienza.svg" alt="Sapienza Università di Roma" align="absmiddle" width="64" height="64" /> &nbsp; 
 <img src="./icons/languages/italy.svg" alt="italy" align="absmiddle" width="16" height="16" />  &nbsp; **Sapienza Università di Roma**  
   
@@ -101,7 +110,7 @@ I am currently investigating the _potential role of intronic lariat stabilizatio
 
 <br/>
 
-## 🔹 Languages
+## 🌐 Languages
   &emsp; <img src="./icons/languages/italy.svg"     alt="italian"   align="absmiddle" width="32" height="32" /> &nbsp; **Italian**   &emsp;&emsp;&emsp;&emsp;&emsp; `Native`
   &emsp;&emsp;&emsp;&emsp;&emsp;
   &emsp; <img src="./icons/languages/english.svg"   alt="english"   align="absmiddle" width="32" height="32" /> &nbsp; **English**   &emsp;&emsp;&emsp;&emsp;&ensp; `B2`  
@@ -109,7 +118,7 @@ I am currently investigating the _potential role of intronic lariat stabilizatio
 
 <br/>
 
-## 🔹 Contacts
+## 📩 Contacts
 <div>
   &emsp;
   <a href="https://www.linkedin.com/in/daniele-piccolo-biomol">
