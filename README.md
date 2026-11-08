@@ -60,17 +60,24 @@
     <img src="./icons/stack/github.svg"  alt="GitHub"        title="GitHub"        width="55" height="55" />
   
   &emsp;&emsp;&emsp;
-    <img src="./icons/stack/pymol.png"   alt="PyMOL"         title="PyMOL"         width="55" height="55" /> &nbsp;
-    <img src="./icons/stack/blender.svg" alt="Blender"       title="Blender"       width="55" height="55" /> &nbsp;
-    <img src="./icons/stack/office.svg"  alt="MS Office"     title="MS Office"     width="55" height="55" />
+    <img src="./icons/stack/pymol.png"   alt="PyMOL"         title="PyMOL"   width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/blender.svg" alt="Blender"       title="Blender" width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/unity.svg"   alt="Unity"         title="Unity"   width="55" height="55" /> &nbsp;
+    <img src="./icons/empty.svg"                                             width="55" height="55" />
+  &emsp;&emsp;
+    <img src="./icons/stack/office.svg"  alt="MS Office"     title="MS Office" width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/adobe.svg"   alt="Adobe"         title="Adobe"     width="55" height="55" />
 </div>
 
-### &emsp; 🔹 **Frameworks & Technologies**
+### &emsp; 🔹 **Frameworks & Libraries**
 <div>
   &emsp;&emsp;&emsp;
-    <img src="./icons/stack/dotnet.svg" alt=".NET"  title=".NET" width="55"  height="55" /> &nbsp;
-    <img src="./icons/stack/p5js.svg"   alt="p5.js" title="p5.js" width="55" height="55" /> &nbsp;
-    <img src="./icons/stack/regex.svg"  alt="Regex" title="Regex" width="55" height="55" />
+    <img src="./icons/stack/dotnet.svg"       alt=".NET"         title=".NET"         width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/p5js.svg"         alt="p5.js"        title="p5.js"        width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/regex.svg"        alt="Regex"        title="Regex"        width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/conda.svg"        alt="Conda"        title="Conda"        width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/snakemake.svg"    alt="SnakeMake"    title="SnakeMake"    width="55" height="55" /> &nbsp;
+    <img src="./icons/stack/bioconductor.svg" alt="BioConductor" title="BioConductor" width="55" height="55" />
 </div>
 
 <br/>
