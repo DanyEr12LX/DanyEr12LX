@@ -7,13 +7,19 @@
 <br/>
 
 ## 🔹 Contacts
-&emsp; [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniele-piccolo-biomol/)
-&ensp; [![GMail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com)
+<div>
+  &emsp;
+  <a href="https://www.linkedin.com/in/daniele-piccolo-biomol">
+    <img src="./icons/contacts/linkedin.svg" alt="Linkedin" title="Linkedin" width="55" height="55" /></a> 
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com">
+    <img src="./icons/contacts/gmail.svg"   alt="GMail"     title="GMail"    width="55" height="55" /></a>
+</div>
 
 <br/>
 
 ## 🔹 About
-&emsp; _[TODO]_: fare bottom, about, 2 programmi, convertire contacts
+&emsp; _[TODO]_: fare bottom, about,
 
 📍 **Position**&nbsp;&nbsp;&nbsp;&nbsp;Rome / Salerno, Italy &nbsp;&nbsp;&nbsp;&nbsp; 🇮🇹 `UTC +1`
 
@@ -83,7 +89,8 @@
 <br/>
 
 ## 🔹 Education
-&emsp; <img src="./icons/education/sapienza.svg" alt="Sapienza Università di Roma" align="absmiddle" width="64" height="64" /> &nbsp; **Sapienza Università di Roma**  
+&emsp; <img src="./icons/education/sapienza.svg" alt="Sapienza Università di Roma" align="absmiddle" width="64" height="64" /> &nbsp; 
+<img src="./icons/languages/italy.svg"     alt="italian"   align="absmiddle" width="16" height="16" />  &nbsp; **Sapienza Università di Roma**  
   
 &emsp;&emsp;&emsp;  **Msc** in Genetics and Molecular Biology  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Bioinformatics_  
@@ -92,7 +99,8 @@
 
 <br/>
 
-&emsp; <img src="./icons/education/unisa.svg" alt="UNISA Università degli Studi di Salerno" align="absmiddle" width="64" height="64" /> &nbsp; **UNISA Università degli Studi di Salerno**  
+&emsp; <img src="./icons/education/unisa.svg" alt="UNISA Università degli Studi di Salerno" align="absmiddle" width="64" height="64" /> &nbsp;
+<img src="./icons/languages/italy.svg"     alt="italian"   align="absmiddle" width="16" height="16" />  &nbsp; **UNISA Università degli Studi di Salerno**  
   
 &emsp;&emsp;&emsp; **Bsc** in Biological Sciences  
 &emsp;&emsp;&emsp; 🔹 **Thesis subject**      &emsp;&emsp;&emsp;&emsp;&emsp;       _Molecular Docking_  
