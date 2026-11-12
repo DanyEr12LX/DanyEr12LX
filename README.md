@@ -21,7 +21,7 @@ I am currently investigating the _potential role of intronic lariat stabilizatio
 ### &emsp; 🔹 **Main GitHub Repositories**
   &emsp; &emsp;&emsp; 🔹 IRA: Intron Regulation Analyzer **[** _still in progress_ ⚙️ **]**
 ### &emsp; 🔹 **External projects**
-  &emsp; &emsp;&emsp; 🔹 Collection of sketches created with [p5.js](https://editor.p5js.org/DanyEr12LX/sketches)  
+  &emsp; &emsp;&emsp; 🔹 Collection of personal sketches created with [p5.js](https://editor.p5js.org/DanyEr12LX/collections/n0U-hxVa1)  
   &emsp; &emsp;&emsp; 🔹 Project for a modification of a video game named [DLX-Weapons Fix](https://community.thefunpimps.com/threads/dlx-weapons-fix-v1-0-v1-1-aligned-sights-aiming-directly-from-the-scope-and-more.28433/)
 
 <br/>
