@@ -121,11 +121,17 @@ I am currently investigating the _potential role of intronic lariat stabilizatio
 ## 📩 Contacts
 <div>
   &emsp;
+  <a href="https://github.com/DanyEr12LX/">
+    <img src="https://raw.githubusercontent.com/DanyEr12LX/DanyEr12LX/refs/heads/main/icons/contacts/github.svg"   alt="GitHub"   title="GitHub"  width="55" height="55" /></a> 
+  &nbsp;
   <a href="https://www.linkedin.com/in/daniele-piccolo-biomol">
-    <img src="./icons/contacts/linkedin.svg" alt="Linkedin" title="Linkedin" width="55" height="55" /></a> 
+    <img src="https://raw.githubusercontent.com/DanyEr12LX/DanyEr12LX/refs/heads/main/icons/contacts/linkedin.svg" alt="Linkedin" title="Linkedin" width="55" height="55" /></a> 
   &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniele.piccolo98@gmail.com">
-    <img src="./icons/contacts/gmail.svg"   alt="GMail"     title="GMail"    width="55" height="55" /></a>
+    <img src="https://raw.githubusercontent.com/DanyEr12LX/DanyEr12LX/refs/heads/main/icons/contacts/gmail.svg"    alt="GMail"    title="GMail"    width="55" height="55" /></a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0000-3563-2292">
+    <img src="https://raw.githubusercontent.com/DanyEr12LX/DanyEr12LX/refs/heads/main/icons/contacts/orcid.svg"   alt="ORCID"     title="ORCID"    width="55" height="55" /></a>
 </div>
 
 <div align="center">
